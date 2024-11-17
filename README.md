@@ -95,3 +95,9 @@ Hi there! I'm a Next.js Front-End and React Native Developer passionate about cr
 <img src="https://raw.githubusercontent.com/najibbom/najibbom/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/najibbom/count.svg?"  />
+</div>
+
+###
