@@ -74,10 +74,6 @@ Hi there! I'm a Next.js Front-End and React Native Developer passionate about cr
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="25" alt="vite logo"  />
   <img width="6" />
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="25" alt="blender logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="25" alt="gitlab logo"  />
 </div>
 
 ###
