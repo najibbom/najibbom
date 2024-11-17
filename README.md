@@ -9,9 +9,6 @@ Hi there! I'm a Next.js Front-End and React Native Developer passionate about cr
 ![](https://github-readme-streak-stats.herokuapp.com/?user=najibbom&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=najibbom&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=najibbom&icon=5&color=8)](https://visitcount.itsvg.in)
 
