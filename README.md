@@ -1,99 +1,93 @@
-# <h4> Hello World!, I'm Nadjib, an Algerian Web and Mobile Developer 👋🏼:</h4>
-<h6 align="left">
-I'm a Next.js Front-End and React Native Developer passionate about crafting seamless user experiences 🌟<br> With 2 years of hands-on experience, I specialize in building responsive web and mobile applications using:<br><br>🛠️ Tech Stack:<br><br>Frontend: <b>Next.js, React.js, React Native</b><br>Styling: <b>Tailwind CSS, Styled Components, Sass</b><br>State Management: <b>Redux, Zustand, Context API</b><br>Backend: <b>Node.js, Firebase Functions, Express.js (basic exposure)</b><br>Tools & Platforms: <b>TypeScript, Git, Firebase, REST APIs, Vercel, Expo</b><br>Version Control: <b>GitHub, GitLab</b><br><br>I'm always eager to learn new technologies and collaborate on innovative projects. Let's connect and build something awesome together!</h6>
+# <h4>👋🏼 Hello World, I'm Nadjib — Building Autonomous AI Workflows and Multi-Agent Systems</h4>
 
-###
+<h6 align="left">
+
+I'm a Developer & AI Automation Engineer based in Algeria, focused on **intelligent agent systems**, **workflow orchestration**, and **AI automation**.  
+With hands-on experience in **LangChain**, **LangGraph**, **CrewAI**, and **n8n**, I build modular and scalable agent workflows for real-world automation and reasoning tasks.  
+<br>
+
+🔧 I bridge the gap between frontend & automation, and specialize in:
+
+- 🤖 **Autonomous & Multi-Agent Systems** — LangGraph, CrewAI, OpenAgents  
+- 🔗 **LLM Orchestration** — LangChain, OpenAI Functions, Toolchains  
+- 🔁 **Workflow Automation** — n8n (custom nodes, webhooks, HTTP, triggers)  
+- 🧠 **Local + Cloud LLMs** — Ollama, OpenRouter, Together.ai, Groq  
+- 🌐 **Frontend Integration** — Next.js, React, Tailwind, TypeScript  
+
+I'm passionate about building AI-native tools that reason, communicate, and solve real-world tasks across APIs and services.
+
+</h6>
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=najibbom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=najibbom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://64.media.tumblr.com/1a30eec5a7f81e7c61cf705ae4b86c0d/ae0f63abb9c7a983-c8/s540x810/6b7dc487b083e5372524ac1d4dbc631507d7c91a.gif"  />
+<img align="right" height="150" src="https://64.media.tumblr.com/1a30eec5a7f81e7c61cf705ae4b86c0d/ae0f63abb9c7a983-c8/s540x810/6b7dc487b083e5372524ac1d4dbc631507d7c91a.gif" />
 
-###
+---
 
-<div align="left">
-  
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
-  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
-  
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
- 
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
-  
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
-  
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" alt="tailwindcss logo"  />
- 
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
- 
-  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="25" alt="bash logo"  />
-  
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="25" alt="vercel logo"  />
-  
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite&logoColor=white&style=for-the-badge" height="25" alt="appwrite logo"  />
- 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="25" alt="postman logo"  />
-  
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
-  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
-  
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="25" alt="sqlite logo"  />
- 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
- 
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="25" alt="redux logo"  />
-  
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
- 
-  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" height="25" alt="heroku logo"  />
- 
-  <img src="https://img.shields.io/badge/PlanetScale-000000?logo=planetscale&logoColor=white&style=for-the-badge" height="25" alt="planetscale logo"  />
-  
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="25" alt="prisma logo"  />
-  
-  <img src="https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=white&style=for-the-badge" height="25" alt="codecov logo"  />
-  
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="25" alt="supabase logo"  />
-  
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="25" alt="firebase logo"  />
-  
-  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="25" alt="nginx logo"  />
-  
-  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="25" alt="socketio logo"  />
- 
-  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="25" alt="trello logo"  />
-  
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="25" alt="npm logo"  />
-  
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
-  
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="25" alt="vite logo"  />
- 
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="25" alt="blender logo"  />
-</div>
+### 🛠️ Tech Stack Highlights
 
-###
+#### 🧠 AI, Agents & Automation
+
+- **LangChain**, **LangGraph**, **CrewAI**
+- **n8n** (Workflows, Automation, HTTP APIs, Webhooks)
+- **Local LLMs** (Ollama, LM Studio)
+- **OpenAI**, **Anthropic**, **Groq**, **OpenRouter**
+- **Vector DBs**: Chroma, Weaviate, Supabase Vector
+
+#### 🧩 Frontend & UI
+
+- **Next.js**, **React**, **Tailwind CSS**, **React Native**
+- **TypeScript**, **Zustand**, **Redux**, **Vite**
+- **Firebase**, **Supabase**, **Socket.io**
+
+#### 🌐 Backend & DevOps
+
+- **Express**, **Node.js**, **NGINX**
+- **PlanetScale**, **PostgreSQL**, **MongoDB**, **Prisma**
+- **Docker**, **Vercel**, **Heroku**
+
+---
+
+### 🔧 Toolbelt & Workflow
 
 <div align="left">
-  <a href="unwyrd#6864"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
-  <a href="mailto:nboubrim@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/nadjib-boubrim-562058159/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+
+<img src="https://img.shields.io/badge/LangChain-000000?logo=python&logoColor=white&style=for-the-badge" height="25" />
+<img src="https://img.shields.io/badge/LangGraph-blueviolet?logo=python&logoColor=white&style=for-the-badge" height="25" />
+<img src="https://img.shields.io/badge/CrewAI-FF0090?logo=fastapi&logoColor=white&style=for-the-badge" height="25" />
+<img src="https://img.shields.io/badge/n8n-FE315D?logo=n8n&logoColor=white&style=for-the-badge" height="25" />
+<img src="https://img.shields.io/badge/Ollama-000000?logo=linux&logoColor=white&style=for-the-badge" height="25" />
+<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" height="25" />
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" />
+<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="25" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+### 📫 Let's Connect
 
-###
+<div align="left">
+  <a href="unwyrd#6864"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" /></a>
+  <a href="mailto:nboubrim@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" /></a>
+  <a href="https://www.linkedin.com/in/nadjib-boubrim-562058159/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" /></a>
+</div>
+
+---
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/najibbom/count.svg?"  />
 </div>
-
-###
